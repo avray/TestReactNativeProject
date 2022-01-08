@@ -3,6 +3,12 @@
     "name": "TestReactNativeProject",
     "slug": "TestReactNativeProject",
     "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "icon": "./assets/icon.png",
     "assetBundlePatterns": [
       "**/*"
     ]
